@@ -26,9 +26,8 @@ This implementation won **1st place**, outperforming all other entries through:
 - Reliable and consistent decision-making under pressure.
 
 **Result:**
-- Fully utilized allotted time without exceeding limits.
 - Achieved **25–50% deeper searches** than competitors (depth 5–7 vs <= 4). 
-- Used **100-280%** more of the available time (10-19s vs <5 for competitors).
+- Used **100-280%** more of the available 20 seconds (10-19s vs <5).
 
 
 # Enhancement 1: Optimize alpha-beta
