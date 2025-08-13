@@ -17,16 +17,11 @@ To do a turn, select a blue piece. After, this will display yellow squares on th
 
 ---
 
-## Competition Context
-This AI was developed for the CS470 **Halma AI Tournament**. Each student submission played multiple matches in a bracket against others with a time limit for each turn.  
-
-This implementation won **1st place**, outperforming all other entries through:
-- Strategic move ordering for pruning.
-- Dynamic depth adaptation to time limits.
-- Reliable and consistent decision-making under pressure.
+## Project Background
+This AI was developed for the CS470 Halma AI Tournament, where each student submission played timed matches in a bracket format. My implementation incorporates two main enhancements aimed at maximizing search depth and efficiency within the given time limit.
 
 **Result:**
-- Achieved **25–50% deeper searches** than competitors (depth 5–7 vs <= 4). 
+- Increased search depth to 5–7 from an expected depth of <= 4.  
 - Used **100-280%** more of the available 20 seconds (10-19s vs <5).
 
 
